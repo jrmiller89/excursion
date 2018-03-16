@@ -6,6 +6,17 @@ h1{
   text-align: center;
 }
 
+h2 {
+  font-weight: 300px;
+  font-size: 42px;
+  color: white;
+}
+
+p{
+  font-size: 21px;
+  color: gray;
+}
+
 body {
   font-family: Verdana, sans-serif;
   text-align: center;
